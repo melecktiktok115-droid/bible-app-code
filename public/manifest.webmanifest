@@ -1,0 +1,19 @@
+{
+  "name": "Bible Chrétienne Moderne — par Meleck",
+  "short_name": "Bible Meleck",
+  "description": "Un moment avec Dieu. Une lumière pour votre vie.",
+  "lang": "fr",
+  "start_url": "/?page=accueil",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+export const dailyVerses = [
+  {
+    book: 18,
+    chapter: 22,
+    verse: 0,
+    text: 'Psaume de David. L’Eternel est mon berger, je n’aurai point de disette.',
+    ref: 'Psaumes 23:1',
+  },
+  {
+    book: 18,
+    chapter: 118,
+    verse: 104,
+    text: 'Ta parole est une lampe à mon pied, et une lumière à mon sentier.',
+    ref: 'Psaumes 119:105',
+  },
+  {
+    book: 42,
+    chapter: 2,
+    verse: 15,
+    text: 'Car Dieu a tant aimé le monde, qu’il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu’il ait la vie éternelle.',
+    ref: 'Jean 3:16',
+  },
+  {
+    book: 49,
+    chapter: 3,
+    verse: 5,
+    text: 'Ne vous inquiétez de rien, mais en toutes choses présentez vos demandes à Dieu par des prières et des supplications, avec des actions de grâces.',
+    ref: 'Philippiens 4:6',
+  },
+  {
+    book: 19,
+    chapter: 2,
+    verse: 4,
+    text: 'Confie-toi de tout ton coeur en l’Eternel, et ne t’appuie point sur ta prudence.',
+    ref: 'Proverbes 3:5',
+  },
+  {
+    book: 45,
+    chapter: 12,
+    verse: 3,
+    text: 'La charité est patience; elle est douce; la charité n’est point envieuse; la charité n’use point d’insolence; elle ne s’enorgueillit point;',
+    ref: '1 Corinthiens 13:4',
+  },
+  {
+    book: 22,
+    chapter: 39,
+    verse: 30,
+    text: 'Mais ceux qui s’attendent à l’Eternel prennent de nouvelles forces; les ailes leur reviennent comme aux aigles; ils courront; et ne se fatigueront point; ils marcheront, et ne se lasseront point.',
+    ref: 'Ésaïe 40:31',
+  },
+]

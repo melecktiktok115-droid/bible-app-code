@@ -1,0 +1,1 @@
+CREATE INDEX "messages_participants_created_idx" ON "messages" ("sender","recipient","created_at");
